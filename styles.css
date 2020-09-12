@@ -1,0 +1,24 @@
+h1{
+   
+    color:rgba(17, 17, 17, 0.808);
+    
+}
+.stiloprincipal {
+    background: rgb(248, 221, 99);
+    width: 100% ;
+    height: 100% ;
+    margin:20px ;
+   
+}
+.vinotinto{
+    color:rgba(112, 0, 0, 0.808);
+}
+
+h3{
+    background: green ;
+}
+
+li{
+    background: rgb(110, 124, 110) ;
+    padding: 2px;
+}
