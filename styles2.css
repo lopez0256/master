@@ -5,9 +5,11 @@
     letter-spacing:0.80em;
     margin: 30px 30px;
      font-weight: 300;
-     
+     float: left;
+     width: 400px;
    
 }
+
 
 .fondo{
 
@@ -16,3 +18,27 @@
     height: 100% ;
     margin: 10px 10px;
 }
+
+#contenedor {
+    font-size: 180;
+    float: left;
+    width: 804px;
+    }
+    
+   .listapalabras{
+    
+letter-spacing:0.80em;
+    margin: 30px 30px;
+    
+}
+
+li{
+    
+    background: rgb(110, 124, 110) ;
+    padding: 2px;
+}
+   
+    
+  
+
+    
