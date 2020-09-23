@@ -1,0 +1,25 @@
+
+
+.def{
+    width: 250px;
+    height: 240px;
+    border: 5px solid black;
+    margin: 28px;
+    padding: 5px;
+    float: left;
+    background-color: rgb(207, 194, 6);
+}
+ 
+.principal{
+    background-color: rgba(4, 18, 94, 0.918);
+
+ }
+
+ h3{
+    background: rgba(87, 87, 87, 0.274) ;
+}
+
+p{
+    font-weight: bold;
+}
+

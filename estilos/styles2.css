@@ -20,25 +20,29 @@
 }
 
 #contenedor {
-    font-size: 180;
+    
     float: left;
     width: 804px;
+    background: rgb(110, 124, 110) ;
     }
     
    .listapalabras{
     
 letter-spacing:0.80em;
     margin: 30px 30px;
-    
+  
 }
 
 li{
     
-    background: rgb(110, 124, 110) ;
+ 
     padding: 2px;
+  
 }
    
     
-  
+  .div2{
+      margin-left: 800px;
+  }
 
     
