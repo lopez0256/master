@@ -10,6 +10,7 @@
 
 </head>
 <body style="margin: 120px;">
+    
     <center>
     <h1> Cuestionario</h1> 
 </center>
@@ -112,11 +113,20 @@ Un ISP conecta a sus usuarios a Internet a través de diferentes tecnologías co
        <input type="radio" name="gender" value="3"> Es una secuencia de instrucciones, escritas para realizar una tarea específica en una computadora.
 <br>
 <br>
+
 <br>
     <center>
 
-       <input type="submit" value="Enviar">
+        <button type="button" onclick="document.getElementById('demo').style.display='block'">Enviar</button>
+
+        <p id="demo" style="display:none">Su nota es 5,0</p>
     </center>
+<br>
+
+<button class = "btn btn-danger" id = "boton" onclick="alert('Su nota es de 5,0')" > Revise su nota aqui</button>
+
+
+
 
 </body>
 </html>

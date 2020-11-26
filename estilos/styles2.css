@@ -45,4 +45,9 @@ li{
       margin-left: 800px;
   }
 
-    
+    .sel:hover{
+        font-weight: bold;
+       
+        color: #16c007;
+        text-decoration: darkgoldenrod  ;
+    }

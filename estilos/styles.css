@@ -22,3 +22,10 @@ li{
     background: rgb(110, 124, 110) ;
     padding: 2px;
 }
+
+.lin:hover{
+    font-weight: bold;
+   
+    color: #00388b;
+    text-decoration: darkgoldenrod  ;
+}
